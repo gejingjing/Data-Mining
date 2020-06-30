@@ -10,3 +10,8 @@
 
 ## 互评作业3：分类与预测
 数据集: [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales)
+
+
+## 数据挖掘互评作业4：离群点分析与异常检测
+数据集1: [wine_benchmarks](https://ir.library.oregonstate.edu/concern/datasets/47429f155?locale=en)
+数据集2: [skin_benchmarks](https://ir.library.oregonstate.edu/concern/datasets/47429f155?locale=en)
